@@ -1,1 +1,1 @@
-This is my git application, and im testing git using this file.
+This is my git application, and im testing git using this file. Now lets try changing a few things in this file
